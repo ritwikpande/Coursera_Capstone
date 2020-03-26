@@ -1,5 +1,3 @@
-# Location-Analysis
+# Data Science methodologies
 
-Hi,
 
-This is part of the Coursera IBM Data Science Specialization course.
